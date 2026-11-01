@@ -22,7 +22,7 @@ I'm a Software Engineer
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shrinithi.036)
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinithi-srinivasan/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shrinithi_dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinithi-srinivasan/) [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shrinithi_dev)
 
 ## 🧩 Problem Solving
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user9739LO/)
